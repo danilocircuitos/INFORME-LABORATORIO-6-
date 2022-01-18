@@ -145,7 +145,7 @@ En el circuito dado si se cumplio el Teorema de la maxima transferencia de poten
 
 5.VIDEO
 
-
+https://youtu.be/V2PnTsn7fOU
 
 6.CONCLUSIONES
 
